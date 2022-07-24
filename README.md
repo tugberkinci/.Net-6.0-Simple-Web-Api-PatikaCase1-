@@ -1,0 +1,1 @@
+# .Net-6.0-Simple-Web-Api-PatikaCase1-
